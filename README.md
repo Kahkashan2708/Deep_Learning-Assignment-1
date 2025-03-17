@@ -1,6 +1,7 @@
 # Implementation of a Feed Forward Neural Network using Fashion MNIST Dataset
 
-
+The GitHub Repository can be find here- https://github.com/Kahkashan2708/Deep_Learning-Assignment-1
+Wandb Report- https://wandb.ai/ma23c014-indian-institute-of-technology-madras/fashion-mnist-sweep/reports/DA6401-Assignment-1-Implementing-a-Feedforward-Neural-Network-for-Fashion-MNIST-Classification--VmlldzoxMTgyMjIzOQ
 
 The problem statement involves building and training a 'plain vanilla' Feed Forward Neural Network from scratch using primarily Numpy package in Python.
 
@@ -23,11 +24,11 @@ Once the best configuration is identified with the help of wandb wither using Ra
 # Code Structure
 train.py - contains all the code in python file
 
-Class_samples&FFNN.ipynb - This file contains fashion-mnist-visualization nd code of feedforward neyral network
+Class_samples&FFNN.ipynb - This file contains fashion-mnist-visualization nd code of feedforward neural network
 
 confusion_matrix.ipynb - code of confusion matrix and visualization.
 
-Dgit-mnist.ipynb - contains code of the implementation of ffnt and hyperparameter tuning of digit-mnist-dataset.
+Digit-mnist.ipynb - contains code of the implementation of ffnt and hyperparameter tuning of digit-mnist-dataset.
 
 # Training, Validation and Hyperparameter optimisation
 
